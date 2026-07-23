@@ -27,8 +27,6 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-Evidências: repositórios `on33-python-*`, `projeto1`, `MVP_Canhoto`, `Prototipo-Reservas`, `Hub-Mslz`, `blpg-pessoal`, `Portfolio`, `projeto_web_aula_27` e READMEs publicados.
-
 ### Front-end
 
 <p>
@@ -38,16 +36,12 @@ Evidências: repositórios `on33-python-*`, `projeto1`, `MVP_Canhoto`, `Prototip
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-155E75?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-Evidências: `Hub-Mslz/package.json`, `Hub-Mslz/next.config.ts`, `Hub-Mslz/tailwind.config.ts`, `Prototipo-Reservas/frontend/package.json` e `Prototipo-Reservas/frontend/vite.config.js`.
-
 ### Back-end
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
 </p>
-
-Evidências: `Prototipo-Reservas/backend/package.json`, `Prototipo-Reservas/backend/server.js`, `projeto_web_aula_27/backend/package.json` e `projeto_web_aula_27/backend/server.js`.
 
 ### Bancos de dados e dados
 
@@ -60,8 +54,6 @@ Evidências: `Prototipo-Reservas/backend/package.json`, `Prototipo-Reservas/back
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-92400E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-Evidências: `projeto_web_aula_27/docker-compose.yml`, `projeto_web_aula_27/db/init.sql`, `on33-python-s07-banco-de-dados-I`, `telecomx-churn-prediction`, `Challenge-Telecom-X_Alura`, `alura-store-analise` e `projeto1/requirements.txt`.
-
 ### Ferramentas e infraestrutura
 
 <p>
@@ -70,8 +62,6 @@ Evidências: `projeto_web_aula_27/docker-compose.yml`, `projeto_web_aula_27/db/i
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-Evidências: `.github/workflows/generate-snake.yml`, `projeto_web_aula_27/backend/Dockerfile`, `projeto_web_aula_27/frontend/Dockerfile` e `projeto_web_aula_27/docker-compose.yml`.
-
 ### Em estudo
 
 <p>
@@ -79,28 +69,26 @@ Evidências: `.github/workflows/generate-snake.yml`, `projeto_web_aula_27/backen
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-1F2937?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-Evidências: `projeto1/requirements.txt`. A classificação fica em estudo por aparecer de forma concentrada em um projeto.
+### Mapa de evidências
 
-### Matriz de evidências
-
-| Tecnologia | Categoria | Evidência principal | Confiança |
+| Tecnologia | Categoria | Evidência principal | Calor |
 |---|---|---|---|
-| Python | Linguagem | `on33-python-*`, `projeto1/main.py` | alta |
-| JavaScript | Linguagem | `MVP_Canhoto`, `Prototipo-Reservas`, `projeto_web_aula_27`, projetos HTML com scripts | alta |
-| TypeScript | Linguagem | `Hub-Mslz/tsconfig.json`, arquivos `.ts` e `.tsx` | média |
-| HTML/CSS | Linguagens | `blpg-pessoal`, `Portfolio`, `7dayscode-Layout_estatico`, `training-weather` | alta |
-| React | Front-end | `Hub-Mslz/package.json`, `Prototipo-Reservas/frontend/package.json` | alta |
-| Next.js | Front-end | `Hub-Mslz/package.json`, `Hub-Mslz/next.config.ts` | alta |
-| Vite | Front-end | `Prototipo-Reservas/frontend/package.json`, `frontend/vite.config.js` | alta |
-| Tailwind CSS | Front-end | `Hub-Mslz/package.json`, `tailwind.config.ts` | média |
-| Node.js | Back-end | scripts `node server.js` em `package.json` | alta |
-| Express | Back-end | dependência `express` em back-ends publicados | alta |
-| PostgreSQL/SQL | Banco de dados | `docker-compose.yml`, dependência `pg`, `db/init.sql`, exercícios `.sql` | média |
-| Jupyter/Pandas/NumPy | Dados | notebooks públicos, repositórios `pandas-numpy`, `projeto1/requirements.txt` | média |
-| scikit-learn | Dados | `projeto1/requirements.txt`, projeto de churn prediction | média |
-| Docker | Ferramenta | `Dockerfile` e `docker-compose.yml` em `projeto_web_aula_27` | média |
-| GitHub Actions | Ferramenta | `.github/workflows/generate-snake.yml` | alta |
-| Streamlit/Plotly | Em estudo | `projeto1/requirements.txt` | baixa |
+| Python | Linguagem | `on33-python-*`, `projeto1/main.py` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| JavaScript | Linguagem | `MVP_Canhoto`, `Prototipo-Reservas`, `projeto_web_aula_27`, projetos HTML com scripts | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| TypeScript | Linguagem | `Hub-Mslz/tsconfig.json`, arquivos `.ts` e `.tsx` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| HTML/CSS | Linguagens | `blpg-pessoal`, `Portfolio`, `7dayscode-Layout_estatico`, `training-weather` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| React | Front-end | `Hub-Mslz/package.json`, `Prototipo-Reservas/frontend/package.json` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| Next.js | Front-end | `Hub-Mslz/package.json`, `Hub-Mslz/next.config.ts` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| Vite | Front-end | `Prototipo-Reservas/frontend/package.json`, `frontend/vite.config.js` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| Tailwind CSS | Front-end | `Hub-Mslz/package.json`, `tailwind.config.ts` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| Node.js | Back-end | scripts `node server.js` em `package.json` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| Express | Back-end | dependência `express` em back-ends publicados | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| PostgreSQL/SQL | Banco de dados | `docker-compose.yml`, dependência `pg`, `db/init.sql`, exercícios `.sql` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| Jupyter/Pandas/NumPy | Dados | notebooks públicos, repositórios `pandas-numpy`, `projeto1/requirements.txt` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| scikit-learn | Dados | `projeto1/requirements.txt`, projeto de churn prediction | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| Docker | Ferramenta | `Dockerfile` e `docker-compose.yml` em `projeto_web_aula_27` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
+| GitHub Actions | Ferramenta | `.github/workflows/generate-snake.yml` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
+| Streamlit/Plotly | Em estudo | `projeto1/requirements.txt` | <img alt="Confiança baixa" src="https://img.shields.io/badge/baixa-D73A49?style=flat-square" /> |
 
 ## Projetos
 
