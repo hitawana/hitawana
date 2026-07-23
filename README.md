@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Lexend&weight=700&size=28&duration=2600&pause=900&color=0B57D0&center=true&vCenter=true&width=760&height=90&lines=Hitawana;MVPs%2C+testes+e+ideias+abstratas;Sistemas+de+Informa%C3%A7%C3%A3o;Front-end%2C+back-end+e+dados"
+      src="https://readme-typing-svg.demolab.com?font=Lexend&weight=700&size=28&duration=2600&pause=900&color=8B5E34&center=true&vCenter=true&width=760&height=90&lines=Hitawana;MVPs%2C+testes+e+ideias+abstratas;Sistemas+de+Informa%C3%A7%C3%A3o;Front-end%2C+back-end+e+dados"
       alt="Animação de digitação com o nome Hitawana e temas de estudo"
     />
   </a>
@@ -69,26 +69,21 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-1F2937?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### Mapa de evidências
+### Mapa de stacks
 
-| Tecnologia | Categoria | Evidência principal | Calor |
-|---|---|---|---|
-| Python | Linguagem | `on33-python-*`, `projeto1/main.py` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| JavaScript | Linguagem | `MVP_Canhoto`, `Prototipo-Reservas`, `projeto_web_aula_27`, projetos HTML com scripts | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| TypeScript | Linguagem | `Hub-Mslz/tsconfig.json`, arquivos `.ts` e `.tsx` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| HTML/CSS | Linguagens | `blpg-pessoal`, `Portfolio`, `7dayscode-Layout_estatico`, `training-weather` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| React | Front-end | `Hub-Mslz/package.json`, `Prototipo-Reservas/frontend/package.json` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| Next.js | Front-end | `Hub-Mslz/package.json`, `Hub-Mslz/next.config.ts` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| Vite | Front-end | `Prototipo-Reservas/frontend/package.json`, `frontend/vite.config.js` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| Tailwind CSS | Front-end | `Hub-Mslz/package.json`, `tailwind.config.ts` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| Node.js | Back-end | scripts `node server.js` em `package.json` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| Express | Back-end | dependência `express` em back-ends publicados | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| PostgreSQL/SQL | Banco de dados | `docker-compose.yml`, dependência `pg`, `db/init.sql`, exercícios `.sql` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| Jupyter/Pandas/NumPy | Dados | notebooks públicos, repositórios `pandas-numpy`, `projeto1/requirements.txt` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| scikit-learn | Dados | `projeto1/requirements.txt`, projeto de churn prediction | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| Docker | Ferramenta | `Dockerfile` e `docker-compose.yml` em `projeto_web_aula_27` | <img alt="Confiança média" src="https://img.shields.io/badge/m%C3%A9dia-F9C513?style=flat-square" /> |
-| GitHub Actions | Ferramenta | `.github/workflows/generate-snake.yml` | <img alt="Confiança alta" src="https://img.shields.io/badge/alta-2EA44F?style=flat-square" /> |
-| Streamlit/Plotly | Em estudo | `projeto1/requirements.txt` | <img alt="Confiança baixa" src="https://img.shields.io/badge/baixa-D73A49?style=flat-square" /> |
+Contagem conservadora de projetos com evidência verificável por stack. Cada bloco preenchido representa um projeto identificado no levantamento.
+
+| Stack | Projetos usados | Calor |
+|---|---:|---|
+| JavaScript | 8 | `████████` |
+| Python | 7 | `███████░` |
+| HTML/CSS | 7 | `███████░` |
+| Dados/Notebooks | 5 | `█████░░░` |
+| React/Vite | 2 | `██░░░░░░` |
+| Node.js/Express | 2 | `██░░░░░░` |
+| TypeScript/Next.js | 1 | `█░░░░░░░` |
+| Docker/PostgreSQL | 1 | `█░░░░░░░` |
+| Streamlit/Plotly | 1 | `█░░░░░░░` |
 
 ## Projetos
 
