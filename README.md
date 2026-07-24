@@ -20,7 +20,6 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-7C2D12?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-164E63?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -32,7 +31,6 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-312E81?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-155E75?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -40,7 +38,6 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### Bancos de dados e dados
@@ -59,7 +56,6 @@ Tecnologias identificadas por evidência em repositórios públicos: arquivos de
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-075985?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### Em estudo
